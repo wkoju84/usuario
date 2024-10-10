@@ -1,7 +1,7 @@
 package com.william.usuario.infrastrucuture.repositories;
 
 
-import com.william.usuario.infrastructure.entities.Usuario;
+import com.william.usuario.infrastrucuture.entities.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
 package com.william.usuario.infrastrucuture.repositories;
 
 
-import com.william.usuario.infrastructure.entities.Telefone;
+import com.william.usuario.infrastrucuture.entities.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
