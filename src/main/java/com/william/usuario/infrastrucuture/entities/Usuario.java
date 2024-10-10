@@ -36,6 +36,7 @@ public class Usuario implements UserDetails {
     private List<Telefone> telefones;
 
 
+
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
         return null;

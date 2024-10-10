@@ -1,9 +1,8 @@
 package com.william.usuario.infrastrucuture.security;
 
 
-
-import com.william.usuario.infrastructure.entities.Usuario;
-import com.william.usuario.infrastructure.repositories.UsuarioRepository;
+import com.william.usuario.infrastrucuture.entities.Usuario;
+import com.william.usuario.infrastrucuture.repositories.UsuarioRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
